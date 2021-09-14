@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-14T16:04:30.930Z</updated>
+  <updated>2021-09-14T16:22:55.776Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,15 +21,16 @@
     <link href="http://example.com/2021/09/14/Live2d%E8%AE%BE%E7%BD%AE-1/"/>
     <id>http://example.com/2021/09/14/Live2d%E8%AE%BE%E7%BD%AE-1/</id>
     <published>2021-09-14T15:36:34.989Z</published>
-    <updated>2021-09-14T16:04:30.930Z</updated>
+    <updated>2021-09-14T16:22:55.776Z</updated>
     
-    <content type="html"><![CDATA[<p>终于成功设置了看板娘插件，好开心呀，萌萌的狗子</p><h3 id="设置教程"><a href="#设置教程" class="headerlink" title="设置教程"></a>设置教程</h3><hr>]]></content>
+    <content type="html"><![CDATA[<p>终于成功设置了看板娘插件，好开心呀，萌萌的狗子</p><h3 id="设置教程"><a href="#设置教程" class="headerlink" title="设置教程"></a>设置教程</h3><hr><p>首先，安装使用命令</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;终于成功设置了看板娘插件，好开心呀，萌萌的狗子&lt;/p&gt;
 &lt;h3 id=&quot;设置教程&quot;&gt;&lt;a href=&quot;#设置教程&quot; class=&quot;headerlink&quot; title=&quot;设置教程&quot;&gt;&lt;/a&gt;设置教程&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;首先，安装使用命令&lt;/p&gt;
 </summary>
       
     
