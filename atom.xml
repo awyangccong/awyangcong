@@ -43,16 +43,14 @@
     <link href="http://example.com/2021/09/10/%E7%AC%AC%E4%B8%80%E4%B8%AAMarkdown/"/>
     <id>http://example.com/2021/09/10/%E7%AC%AC%E4%B8%80%E4%B8%AAMarkdown/</id>
     <published>2021-09-10T11:31:05.043Z</published>
-    <updated>2021-09-10T15:03:22.767Z</updated>
+    <updated>2021-09-14T14:12:59.185Z</updated>
     
-    <content type="html"><![CDATA[<p>#这是我的第一个Markdown文件</p><p>##超级开心</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="这是我的第一个Markdown文件"><a href="#这是我的第一个Markdown文件" class="headerlink" title="这是我的第一个Markdown文件"></a>这是我的第一个Markdown文件</h1><h2 id="超级开心"><a href="#超级开心" class="headerlink" title="超级开心"></a>超级开心</h2><p>今天完成了，live2d看板娘的设置，很开心~</p><hr><p>我想记录一下具体的实施方法，便于以后的查看修改 </p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;#这是我的第一个Markdown文件&lt;/p&gt;
-&lt;p&gt;##超级开心&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h1 id=&quot;这是我的第一个Markdown文件&quot;&gt;&lt;a href=&quot;#这是我的第一个Markdown文件&quot; class=&quot;headerlink&quot; title=&quot;这是我的第一个Markdown文件&quot;&gt;&lt;/a&gt;这是我的第一个Markdown文件&lt;/h1&gt;&lt;h2 id=&quot;超级开心&quot;</summary>
       
     
     
